@@ -1,0 +1,15 @@
+[submodule "db/0"]
+	path = db/0
+	url = https://github.com/mangoszero/database.git
+[submodule "db/1"]
+	path = db/1
+	url = https://github.com/mangosone/database.git
+[submodule "db/2"]
+	path = db/2
+	url = https://github.com/mangostwo/database.git
+[submodule "db/3"]
+	path = db/3
+	url = https://github.com/mangosthree/database.git
+[submodule "db/4"]
+	path = db/4
+	url = https://github.com/mangosfour/database.git
